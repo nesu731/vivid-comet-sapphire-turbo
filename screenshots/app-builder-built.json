@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "生活小习惯摸底",
+      "hasCanvas": false,
+      "bodyTextLen": 119,
+      "bodyTextHash": "7b736ce58b7450b4be18adf2433662a93ea1402ac77f2f2cd7d466f120426287",
+      "bodyTextPrefix": "REC 生活小习惯摸底 00 ANONYMOUS · 2 MIN 关于你最近状态的 几道小事 匿名。没有标准答案。大概两分钟。 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "生活小习惯摸底",
+      "hasCanvas": false,
+      "bodyTextLen": 119,
+      "bodyTextHash": "7b736ce58b7450b4be18adf2433662a93ea1402ac77f2f2cd7d466f120426287",
+      "bodyTextPrefix": "REC 生活小习惯摸底 00 ANONYMOUS · 2 MIN 关于你最近状态的 几道小事 匿名。没有标准答案。大概两分钟。 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
